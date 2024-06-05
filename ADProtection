@@ -1,0 +1,4 @@
+# My custom list of blocked domains. This list only targets advertisement sites.
+# This is public, but it's not my intention for other people to use this. You can use it however if you would like, but it's just my list of domains that other large lists failed to block.
+# It's a  very small list currently but it might evolve over time, but don't count on frequent additions of domains, when I run into an unblocked domain, then I'll add it here.
+||adcolony.com^
